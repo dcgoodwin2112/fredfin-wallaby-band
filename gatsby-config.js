@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: `/fredfin-wallaby-band-gh-page`,
   plugins: [
     {
       resolve: `gatsby-theme-blog`,
