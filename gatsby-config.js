@@ -14,7 +14,7 @@ module.exports = {
     social: [
       {
         name: `Facebook`,
-        url: `https://twitter.com/gatsbyjs`,
+        url: `https://facebook.com/fredfinwallaby`,
       },
       {
         name: `Twitter`,
