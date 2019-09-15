@@ -5,12 +5,15 @@
   "scripts": {
     "develop": "gatsby develop",
     "start": "gatsby develop",
-    "build": "gatsby build"
-  },
+    "build": "gatsby build",
+    "deploy:github": "npm run build && node ./scripts/deploy-github"},
   "dependencies": {
     "gatsby": "^2.15.15",
     "gatsby-theme-blog": "^1.0.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
