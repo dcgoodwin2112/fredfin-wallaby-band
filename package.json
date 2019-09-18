@@ -8,7 +8,9 @@
     "build": "gatsby build"
   },
   "dependencies": {
+    "eslint-plugin-flowtype": "^2.50.3",
     "gatsby": "^2.15.15",
+    "gatsby-plugin-manifest": "^2.2.16",
     "gatsby-theme-blog": "^1.0.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
