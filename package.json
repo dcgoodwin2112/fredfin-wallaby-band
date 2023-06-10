@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "eslint-plugin-flowtype": "^2.50.3",
-    "gatsby": "^2.15.22",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-manifest": "^2.2.18",
     "gatsby-theme-blog": "^1.0.2",
     "react": "^16.9.0",
